@@ -4,7 +4,8 @@ import com.annimon.tgbotsmodule.BotHandler;
 import com.annimon.tgbotsmodule.BotModule;
 import com.annimon.tgbotsmodule.Runner;
 import com.annimon.tgbotsmodule.beans.Config;
-import com.sun.tools.javac.util.List;
+
+import java.util.List;
 
 public class TBotModule implements BotModule {
 

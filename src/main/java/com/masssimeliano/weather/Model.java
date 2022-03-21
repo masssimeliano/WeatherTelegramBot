@@ -1,6 +1,6 @@
 package com.masssimeliano.weather;
 
-import com.masssimeliano.weathertbot.text.WeatherForecastCommand;
+import com.masssimeliano.text.WeatherForecastCommand;
 
 public class Model {
 

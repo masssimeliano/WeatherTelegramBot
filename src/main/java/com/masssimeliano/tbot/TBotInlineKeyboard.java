@@ -1,7 +1,7 @@
 package com.masssimeliano.tbot;
 
-import com.masssimeliano.weathertbot.text.InlineKeyboardCommand;
-import com.masssimeliano.weathertbot.text.KeyboardType;
+import com.masssimeliano.text.InlineKeyboardCommand;
+import com.masssimeliano.text.KeyboardType;
 import org.telegram.telegrambots.meta.api.objects.replykeyboard.InlineKeyboardMarkup;
 import org.telegram.telegrambots.meta.api.objects.replykeyboard.buttons.InlineKeyboardButton;
 
