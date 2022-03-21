@@ -1,4 +1,4 @@
-# WeatherTBot
+# WeatherBot
 
 <p align="center">
   <img width="270" height="270" src="https://github.com/masssimeliano/WeatherTelegramBot/blob/master/src/main/resources/icon.png">
@@ -8,6 +8,7 @@
 # Info about bot
 
 __Telegram bot "WeatherBot"__ that helps to __discover the weather forecast__ (now, daily and weekly) in your city. It is written on __Java SE 11__. WeatherBot is also deployed on __Heroku__ (Cloud platform-server). 
+__Link:__ https://t.me/WeatherBotTelegramTBot
 
 
 # Main features :
