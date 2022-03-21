@@ -28,6 +28,15 @@
             <artifactId>tgbots-module</artifactId>
             <version>5.7.0</version>
         </dependency>
+
+        <!-- SQLite JDBC Driver -->
+        <!-- https://mvnrepository.com/artifact/org.xerial/sqlite-jdbc -->
+        <dependency>
+            <groupId>org.xerial</groupId>
+            <artifactId>sqlite-jdbc</artifactId>
+            <version>3.7.2</version>
+        </dependency>
+
     </dependencies>
 
     <build>
